@@ -1,7 +1,9 @@
 # belajar-git
 Belajar Git
-1. Cara ambil repository dari github : https://github.com/datascienceid/panduan-github
-git clone https://github.com/datascienceid/instagram.git instagram(nama foldernya nanti mau apa)
+1. Cara ambil repository dari github :
+- https://github.com/datascienceid/panduan-github
+  git clone https://github.com/datascienceid/instagram.git instagram(nama foldernya nanti mau apa)
+- kalo foldernya udah ada tinggal gitbash didalemnya terus "git clone https://github.com/USERNAME/my-repo.git repos/my-repo"
 
 2. Cara up semua update progress ke github :
 - git init (kayanya buat awal2 kalo belum pernah pake git di repo itu)
